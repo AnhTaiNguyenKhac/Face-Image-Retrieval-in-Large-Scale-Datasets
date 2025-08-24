@@ -1,3 +1,6 @@
+## Overview
+This project implements a **Face Retrieval System** designed for efficient querying in large-scale face datasets. The system combines **Convolutional Neural Networks (CNNs, MobileNet)** for feature extraction with **Locality-Sensitive Hashing (LSH)** to accelerate similarity search. It includes a **Flask backend** and an **Android application** for practical deployment.
+
 ## Features
 - Extracts facial features using **MobileNet CNN** for high-accuracy representation.
 - Employs **Modified LSH** for fast and efficient face retrieval in large datasets.
